@@ -6,9 +6,9 @@ This project recreates a fun concept where a download action is visualized as a 
 Or direct link-
 https://parachute-code-aasunny.blackparrotfedora.workers.dev/
 # ✨ Features
-🪂 Unique parachute-style download animation
+🪂 Unique parachute-style download animation<br>
 📦 Visual file delivery concept
-🎨 Smooth and modern CSS animations
+\n 🎨 Smooth and modern CSS animations
 ⚡ Lightweight front-end implementation
 🧩 Beginner-friendly and easy to understand
 # 🛠️ Built With
