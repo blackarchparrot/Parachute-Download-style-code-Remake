@@ -8,8 +8,8 @@ https://parachute-code-aasunny.blackparrotfedora.workers.dev/
 # ✨ Features
 🪂 Unique parachute-style download animation<br>
 📦 Visual file delivery concept
-\n 🎨 Smooth and modern CSS animations
-⚡ Lightweight front-end implementation
+<br>🎨 Smooth and modern CSS animations<br>
+⚡ Lightweight front-end implementation<br>
 🧩 Beginner-friendly and easy to understand
 # 🛠️ Built With
 HTML5 – Structure
